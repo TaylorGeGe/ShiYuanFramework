@@ -117,8 +117,6 @@
      <Compile Include="Assets\QFramework\Framework\5.GameplayKit\Utils\GameTimer.cs" />
      <Compile Include="Assets\QFramework\Framework\5.GameplayKit\Utils\LeanTween.cs" />
      <Compile Include="Assets\QFramework\Framework\5.GameplayKit\Utils\Math\TMathUtils.cs" />
-     <Compile Include="Assets\Scripts\UI\QWERPanel.cs" />
-     <Compile Include="Assets\Scripts\UI\QWERPanel.Designer.cs" />
      <Compile Include="Assets\ShiYuanFramework\SyResKit\2.Prefab加载资源\JumpScene\JumpScene.cs" />
      <Compile Include="Assets\ShiYuanFramework\SyResKit\2.Prefab加载资源\JumpScene\MainScene.cs" />
      <Compile Include="Assets\ShiYuanFramework\SyResKit\3.Resources\ManagedByResources.cs" />

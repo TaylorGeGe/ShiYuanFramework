@@ -7,6 +7,7 @@ Assets/.qframework
 Assets/QFramework
 Assets/QFrameworkData
 .vscode
+obj/Debug
 QFramework.UIKit.csproj
 QFramework.TypeEventSystem.csproj
 QFramework.Singleton.csproj
@@ -26,3 +27,4 @@ QFramework.BindKit.csproj
 QFramework.BindableProperty.csproj
 QFramework.ActionKit.csproj
 QFAssetBandle.sln
+
