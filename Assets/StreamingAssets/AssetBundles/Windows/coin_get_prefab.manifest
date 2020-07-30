@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2560027363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b877dac16e90bfb2f5ed71ce50f10624
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8de51064219e4f947fb7fea9d09a4e34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ShiYuanFramework/SyTests/AssetBundleExample/coin_get.prefab
+Dependencies:
+- D:/UnityProject/QFAssetBandle/Assets/StreamingAssets/AssetBundles/Windows/coin_get

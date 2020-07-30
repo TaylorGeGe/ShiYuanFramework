@@ -53,7 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\QFramework\Framework\1.Core\Math\ProbilityHelper.cs" />
      <Compile Include="Assets\QFramework\Framework\3.UIKit\IHasEventSystemExtension.cs" />
      <Compile Include="Assets\QFramework\Framework\4.AudioKit\0.Timer\BinaryHeap.cs" />
