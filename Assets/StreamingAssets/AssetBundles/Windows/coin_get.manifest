@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4244587913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0434b4e8a81c3d0ec5edbe603382687
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ShiYuanFramework/AssetBundleExample/coin_get.ogg
+Dependencies: []

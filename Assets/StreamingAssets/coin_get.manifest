@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2367430394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 768a71d67df4b0691902b0d6f4f654d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ShiYuanFramework/SyResKit/3.Resources/Resources/coin_get.ogg
+Dependencies: []
